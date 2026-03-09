@@ -48,8 +48,6 @@ Real-time webcam inference with 468-point MediaPipe face mesh and emotion predic
 │   ├── best_resnet.pth   ← trained weights (68.35% val acc)
 ├── inference.py          ← local real-time webcam demo
 ├── all.ipynb             ← training notebook
-├── dataset.py            ← FER2013 data loading
-├── train_resnet.py       ← training script
 ├── requirements.txt
 ```
 
