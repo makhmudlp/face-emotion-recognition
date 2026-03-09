@@ -1,0 +1,6 @@
+torch
+torchvision
+opencv-python
+numpy
+Pillow
+gradio>=4.0
